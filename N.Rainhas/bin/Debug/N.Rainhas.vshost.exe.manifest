@@ -78,14 +78,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="N.Rainhas.exe" size="18896">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="N.Rainhas.exe" size="18384">
       <assemblyIdentity name="N.Rainhas" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>qI8A3yXkITpir6OOCrFLtLgo3AFgZYxstG4X6YFfCJk=</dsig:DigestValue>
+        <dsig:DigestValue>6IH+Ak9zzYcRZFo0rU/BMN7OJw54H4q08nNb9X8UuDg=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
