@@ -10,7 +10,7 @@ D:\Implementações\Projetos .Net\N.Rainhas\N.Rainhas\bin\Debug\AForge.xml
 D:\Implementações\Projetos .Net\N.Rainhas\N.Rainhas\bin\Debug\AForge.Genetic.xml
 D:\Implementações\Projetos .Net\N.Rainhas\N.Rainhas\bin\Debug\AForge.Math.xml
 D:\Implementações\Projetos .Net\N.Rainhas\N.Rainhas\obj\Debug\N.Rainhas.csprojResolveAssemblyReference.cache
-D:\Implementações\Projetos .Net\N.Rainhas\N.Rainhas\obj\Debug\N.Rainhas.Form1.resources
+D:\Implementações\Projetos .Net\N.Rainhas\N.Rainhas\obj\Debug\N.Rainhas.MainForm.resources
 D:\Implementações\Projetos .Net\N.Rainhas\N.Rainhas\obj\Debug\N.Rainhas.Properties.Resources.resources
 D:\Implementações\Projetos .Net\N.Rainhas\N.Rainhas\obj\Debug\N.Rainhas.csproj.GenerateResource.Cache
 D:\Implementações\Projetos .Net\N.Rainhas\N.Rainhas\obj\Debug\N.Rainhas.exe.manifest

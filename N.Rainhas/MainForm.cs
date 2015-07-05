@@ -11,9 +11,9 @@ using System.Windows.Forms;
 
 namespace N.Rainhas
 {
-    public partial class Form1 : Form
+    public partial class MainForm : Form
     {   
-        public Form1()
+        public MainForm()
         {
             InitializeComponent();
             selecaoBox.SelectedIndex = 0;
