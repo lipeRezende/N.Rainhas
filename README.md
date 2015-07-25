@@ -1,3 +1,3 @@
 # N.Rainhas
 
-Solução do Problema da N Rainhas com Algoritmos Genéticos utilizando AForge.Genetic.
+Solução para o Problema das N Rainhas com Algoritmos Genéticos utilizando AForge.Genetic.
